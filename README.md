@@ -30,8 +30,8 @@ Authentication is handled via Laravel Sanctum.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_PROJECT_FOLDER_NAME
+git clone https://github.com/zunaidmiah/freelancer_time_tracker_backend.git
+cd freelancer_time_tracker_backend
 ```
 
 ### 2. Install Dependencies
